@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Hosein Naghdbishi",
+    "label": "Economics Student",
+    "picture": "https://niyumard.github.io/avatar.jpg",
+    "email": "naghdbishi@riseup.net",
+    "phone": "",
+    "website": "https://naghdbshi.ir",
+    "summary": "A curious student trying to find his feet in the realm of economics. An aspiring blogger and writer with a knack for languages. A volunteer for everything good, a fan of freedom and free software and a big computer hobbyist.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Tehran",
+      "countryCode": "IR",
+      "region": "Tehran Province"
+    },
+    "profiles": [
+      {
+        "network": "Write.as",
+        "username": "naghdbishi",
+        "url": "https://write.as/naghdbishi"
+      },
+      {
+        "network": "Wikipedia",
+        "username": "niyumard",
+        "url": "https://en.wikipedia.org/wiki/Special:Contributions/Niyumard"
+      },
+      {
+        "network": "Mastodon",
+        "username": "niyumard",
+        "url": "https://opensocial.africa/@niyumard"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Shahid Beheshti University",
+      "area": "Economics",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-23",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Nudge: Improving Decisions about Health, Wealth, and Happiness",
+      "publisher": "Shafaf",
+      "releaseDate": "2018",
+      "website": "",
+      "summary": "Editor of Persian translation of Nudge"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Editing Persian writings and translations",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Translating from English to Persian",
+      "level": "Advanced",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Esperanto",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Poverty alleviation",
+      "keywords": [
+        "Microcredit",
+        "Social entrepreneurship"
+      ]
+    },
+    {
+      "name": "Education",
+      "keywords": [
+        "Education economics",
+        "Impact of education on social mobility"
+      ]
+    },
+    {
+      "name": "Cultures",
+      "keywords": [
+        "Language learning",
+        "Esperanto culture",
+        "Linguistics and communication studies",
+        "Internet culture and online communities"
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "keywords": [
+        "Wikipedia",
+        "Comedy of the commons",
+        "Free/Libre software movement"
+      ]
+    }
+  ],
+  "references": []
+}
