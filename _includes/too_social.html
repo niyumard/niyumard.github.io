@@ -1,0 +1,26 @@
+<!--
+
+Is there a social network that is not included in the default theme? Then, copy-paste the following lines of code outside of this comment-block and fill-in the details with your preferred social network.
+
+    {% if site.social_network_name %}
+    <li><a class="fa fa-2x fa-social_network_icon" href="social_network_url"><span class="description">social_network_name</span></a></li>
+    {% endif %}
+    
+-->
+
+    {% if site.datedactivities %}
+    <li><a class="fa fa-2x fa-address-card" href="/datedactivities.txt"><span class="description">Dated activities</span></a></li>
+    {% endif %}
+
+    {% if site.resume %}
+    <li><a class="fa fa-2x fa-file" href="/resume.html"><span class="description">Dated activities</span></a></li>
+    {% endif %}
+
+    {% if site.wikipedia %}
+    <li><a class="fab fa-2x fa-wikipedia-w" href="https://en.wikipedia.org/wiki/Special:Contributions/Niyumard"><span class="description">Wikipedia</span></a></li>
+    {% endif %}
+
+    {% if site.mastodon %}
+    <li><a class="fab fa-2x fa-mastodon" href="https://opensocial.africa/@niyumard"><span class="description">Mastodon</span></a></li>
+    {% endif %}
+
