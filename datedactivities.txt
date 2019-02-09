@@ -1,4 +1,0 @@
-2018:
-
-09 September: 
-	* 05 Updated naghdbishi.ir using jekyll, created my resume using jsonresume.

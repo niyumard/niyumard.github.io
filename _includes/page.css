@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Ficticcia College';
+  src: url('Ficticcia College.woff');
+  src: url('Ficticcia College.woff') format('woff'),
+       url('Ficticcia College.otf') format('opentype');
+}
+
+
+@font-face {
+  font-family: 'Underdog';
+  src: url('Underdog-Regular.ttf');
+}
+
+body {
+    font-family: Helvetica,Arial,sans-serif;
+    background-color: rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: 0;
+}
+
+h1 {
+    color: black;
+    font-weight: normal;
+    /*letter-spacing: 0.1em;*/
+    font-size: 5em;
+    font-family: Ficticcia College, Helvetica,Arial,sans-serif;
+    margin: -10px 0;
+}
+h2 {
+    color: black;
+    font-weight: normal;
+    /*letter-spacing: 0.1em;*/
+    font-size: 2em;
+    font-family: Underdog, Helvetica,Arial,sans-serif;
+}
+ul {
+    color: black;
+    font-weight: normal;
+    /*letter-spacing: 0.1em;*/
+    font-size: 1em;
+    font-family: Underdog, Helvetica,Arial,sans-serif;
+}
+li {
+    margin-top:0.5em;
+}
+h3 {
+    color: black;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+.content {
+    padding-top: 100px;
+    padding-bottom: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    text-align: center;
+}

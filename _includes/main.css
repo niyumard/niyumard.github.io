@@ -1,3 +1,10 @@
+@font-face {
+  font-family: Ficticcia College;
+  src: url(Ficticcia College.woff);
+  src: url('Ficticcia College.woff') format('woff'),
+       url(Ficticcia College.otf) format('opentype');
+}
+
 body {
     font-family: Helvetica,Arial,sans-serif;
     background-color: rgba(0, 0, 0, 0);
@@ -23,15 +30,15 @@ body {
 #avatar {
     height: 180px;
     border-radius: 100%;
-    border: 3px solid lightgray;
+/*    border: 3px solid black; */
     margin-bottom: 40px;
 }
 h1 {
     color: black;
     font-weight: normal;
-/*    letter-spacing: 0.1em; */
-    font-size: 4em;
-    font-family: Helvetica;
+    /*letter-spacing: 0.1em;*/
+    font-size: 5em;
+    font-family: Ficticcia College,Helvetica,Arial,sans-serif;
     margin: -10px 0;
 }
 h3 {
@@ -123,5 +130,4 @@ a:hover {
 }
 .content {
     padding-top: 60px;
-}
 }
