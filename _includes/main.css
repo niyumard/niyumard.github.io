@@ -64,8 +64,6 @@ li {
     margin: 8px;
     display: inline-block;
     list-style: none;
-    width: 65px;
-    height: 65px;
 }
 li:hover {
     color: black;
