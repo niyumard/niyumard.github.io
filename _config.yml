@@ -167,7 +167,7 @@ social-links:
     icon-class: fas fa-3x fa-file
 
   - name: wikipedia
-    url-pattern: en.wikipedia.org/wiki/Special:Contributions/__USERNAME__
+    url-pattern: en.wikipedia.org/wiki/User:__USERNAME__
     icon-class: fab fa-3x fa-wikipedia-w
 
   - name: datedactivities
