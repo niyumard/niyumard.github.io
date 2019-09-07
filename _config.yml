@@ -1,5 +1,5 @@
 # Theme
-remote_theme: 'epidrome/cover-card'
+#remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Hossein Naghdbishi'
@@ -34,12 +34,11 @@ blog_url: 'khoone.naghdbishi.ir'
 email: 'email.jpg'
 #messenger: 'myfbchat'
 telegram: '@qwfpg'
-mastodon: '@hosein'
 wikipedia: 'Niyumard'
 resume: 'resume.html'
 datedactivities: 'datedactivities.html'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email, telegram, mastodon, datedactivities, wikipedia, resume]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email, telegram, datedactivities, wikipedia, resume]
 
 # Advanced settings
 #plugins:
@@ -158,9 +157,6 @@ social-links:
     url-scheme: 'https://naghdbishi.ir/'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-3x fa-envelope
-
-  - name: mastodon
-    url-pattern: persadon.com/__USERNAME__
 
   - name: resume
     url-pattern: naghdbishi.ir/__USERNAME__
