@@ -37,7 +37,7 @@ telegram: 'quiquoi'
 wikipedia: 'Niyumard'
 resume: 'resume.html'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email, telegram, wikipedia, resume]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email, en-blog,telegram, wikipedia, resume]
 
 # Advanced settings
 #plugins:
@@ -140,7 +140,7 @@ social-links:
     icon-class: fab fa-3x fa-facebook-messenger
 
   - name: telegram
-    url-pattern: telegram.me/__USERNAME__
+    url-pattern: t.me/__USERNAME__
 
   - name: snapchat
     url-pattern: snapchat.com/add/__USERNAME__
@@ -165,6 +165,6 @@ social-links:
     url-pattern: en.wikipedia.org/wiki/User:__USERNAME__
     icon-class: fab fa-3x fa-wikipedia-w
 
-  - name: datedactivities
-    url-pattern: naghdbishi.ir/__USERNAME__
-    icon-class: fa fa-3x fa-address-card
+  - name: en-blog
+    url-pattern: blog.naghdbishi.ir
+    icon-class: fa fa-3x fa-blog
