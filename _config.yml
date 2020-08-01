@@ -36,6 +36,7 @@ email: 'naghdbishi@riseup.net'
 telegram: 'quiquoi'
 wikipedia: 'Niyumard'
 resume: 'resume.html'
+en-blog: ''
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email, en-blog,telegram, wikipedia, resume]
 
@@ -155,7 +156,7 @@ social-links:
   - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
-    icon-class: far fa-2x fa-envelope-open
+    icon-class: far fa-3x fa-envelope-open
 
   - name: resume
     url-pattern: naghdbishi.ir/__USERNAME__
