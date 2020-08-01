@@ -151,16 +151,16 @@ social-links:
 
   - name: blog_url
     url-pattern: '__USERNAME__'
-    icon-class: fas fa-3x fa-tags
+    icon-class: fas fa-3x fa-language
 
   - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
-    icon-class: far fa-3x fa-envelope-open
+    icon-class: far fa-3x fa-at
 
   - name: resume
     url-pattern: naghdbishi.ir/__USERNAME__
-    icon-class: fas fa-3x fa-file
+    icon-class: fas fa-3x fa-user-graduate
 
   - name: wikipedia
     url-pattern: en.wikipedia.org/wiki/User:__USERNAME__
