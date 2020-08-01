@@ -38,7 +38,7 @@ wikipedia: 'Niyumard'
 resume: 'resume.html'
 en-blog: ''
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, en-blog, email, telegram, resume, wikipedia]
+social-links-order: [blog_url, en-blog, email, telegram, wikipedia, github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, resume]
 
 # Advanced settings
 #plugins:
