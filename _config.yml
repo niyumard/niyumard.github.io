@@ -156,7 +156,7 @@ social-links:
   - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
-    icon-class: far fa-3x fa-at
+    icon-class: fas fa-3x fa-at
 
   - name: resume
     url-pattern: naghdbishi.ir/__USERNAME__
