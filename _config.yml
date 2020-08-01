@@ -38,7 +38,7 @@ wikipedia: 'Niyumard'
 resume: 'resume.html'
 en-blog: ''
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email, en-blog,telegram, wikipedia, resume]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, en-blog, email, telegram, wikipedia, resume]
 
 # Advanced settings
 #plugins:
@@ -151,7 +151,7 @@ social-links:
 
   - name: blog_url
     url-pattern: '__USERNAME__'
-    icon-class: fas fa-3x fa-language
+    icon-class: fas fa-3x fa-feather-alt
 
   - name: email
     url-scheme: 'mailto:'
@@ -168,4 +168,4 @@ social-links:
 
   - name: en-blog
     url-pattern: blog.naghdbishi.ir
-    icon-class: fa fa-3x fa-blog
+    icon-class: fa fa-3x fa-pen-fancy
