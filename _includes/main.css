@@ -45,6 +45,7 @@ h3 {
     color: black;
     padding-bottom: 20px;
     font-weight: bold;
+    visibility: hidden;
 }
 .content {
     padding-top: 100px;
